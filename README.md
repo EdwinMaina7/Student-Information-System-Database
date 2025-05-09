@@ -85,11 +85,6 @@ After importing the database, you can start using it by:
    VALUES ('CS101', 'Introduction to Programming', 3, 1);
    ```
 
-## Entity Relationship Diagram (ERD)
-
-The database schema consists of 16 interrelated tables designed to efficiently store and manage all educational institution data.
-
-![Student Information System ERD](https://example.com/sis_erd.png)
 
 *Note: Replace the URL above with the actual link to your ERD image when available.*
 
