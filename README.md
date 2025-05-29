@@ -1,7 +1,7 @@
 # Student Information System Database
 
 ## Project Title
-Student Information System (SIS) - Comprehensive Database for Educational Institutions
+Student Information System - Comprehensive Database for Educational Institutions
 
 ## Description
 The Student Information System Database is a robust MySQL database designed to manage all aspects of an educational institution's data. This comprehensive system handles:
